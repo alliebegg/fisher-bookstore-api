@@ -1,0 +1,10 @@
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.api.deps.json
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.api.runtimeconfig.json
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.api.runtimeconfig.dev.json
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.api.dll
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/bin/Debug/netcoreapp2.0/Fisher.Bookstore.api.pdb
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.api.csproj.CoreCompileInputs.cache
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.api.AssemblyInfoInputs.cache
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.api.AssemblyInfo.cs
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.api.dll
+/Users/alliebegg/Desktop/MIS 3610/Fisher.Bookstore.api/obj/Debug/netcoreapp2.0/Fisher.Bookstore.api.pdb
