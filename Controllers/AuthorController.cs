@@ -58,9 +58,9 @@ namespace Fisher.Bookstore.Api.Controllers
             return NoContent();
         }
     
-       private readonly BookstoreContext db;
+       private readonly Data.BookstoreContext db;
 
-       public AuthorController(BookstoreContext db)
+       public AuthorController(Data.BookstoreContext db)
        {
            this.db = db;
 
